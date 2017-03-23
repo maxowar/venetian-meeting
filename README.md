@@ -72,7 +72,7 @@ Il Doge ha lo scopo di facilitare e guidare gli Ambasciatori  e le Signorie.
 
 # Consigli
 
-Tavoli rotondi rappresentanti le sedi
-Su ogni tavolo nome del team
-Su ogni tavolo poche keywords per attirare la visita degli Ambasciatori
+ - Tavoli rotondi rappresentanti le sedi
+ - Su ogni tavolo nome del team
+ - Su ogni tavolo poche keywords per attirare la visita degli Ambasciatori
 
