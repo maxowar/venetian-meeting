@@ -1,9 +1,13 @@
 # Venetian Meeting
 Venetian Meeting - Agile agreement system
 
+# Why
 
+Plenarie costose monodirezionali e poco partecipative che non agevolano lo scambio di idee, Open Space che lasciano "troppa" libertà. 
+C'è bisogno di una via di mezzo tra i due mondi per permettere i team di un organismo Agile di scambiarsi informazioni in maniera libera, giocosa e gratificante.
 
 # What
+
 Soluzione Agile per fare dei meeting di allineamento allo scopo di incentivare lo sharing di informazioni preziosi tra team di una organizzazione.
 
 Si chiama così perchè ispirato alla figura dell'ambasciatore inventato dalla Repupplica Serenissima.
