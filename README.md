@@ -61,7 +61,7 @@ Il rientro in patria è la fase in cui gli Ambasciatori ritornano con il loro ca
 
 Il periodo del rientro può durare: 15' o 30'.
 
-### Ultima Era ###
+#### 4. Ultima Era
 Durante l'ultima era si possono visitare sedi già occupate da altre delegazioni ma se ne può sempre visitare solamente una.
 
 L'ultima era in analogia con la storia della Serenissima è quella che deve permettere al sitema, organismo, organizzazione, di uscire dal periodo buio ed iniziare così il Risorgimento.
